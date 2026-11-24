@@ -23,6 +23,12 @@ projeto/
 ├── scenes/       # Cenas do jogo
 └── scripts/      # Scripts e lógica do jogo
 ```
+- Pastas e arquivos com nomes em snake_case. 
+- Classes GDScript com nomes em PascalCase.
+- Scripts com extensão .gd.
+- Cenas com extensão .tscn.
+- Recursos da Godot com extensão correspondente (.tres, .res etc.).
+- Evitar nomes genéricos como script1.gd, new_scene.tscn e test2.tscn.
 
 ## Desenvolvimento
 
